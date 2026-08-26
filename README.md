@@ -2,9 +2,6 @@
 
 <h1 align="center">👋 Hi, I'm Gunasekaran E</h1>
 
-<p align="center">
-  Building practical web applications with frontend, backend, database and API technologies.
-</p>
 
 <p align="center">
   <a href="https://github.com/guna684">
