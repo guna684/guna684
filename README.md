@@ -1,290 +1,127 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== HEADER ===================== -->
 
-
-
-<br>
-
-<!-- ===================== INTRO ===================== -->
-
-<h1 align="center">
-  👋 Hi, I'm Gunasekaran E
-</h1>
-
-<h3 align="center">
-  Software Developer • Full-Stack Development • Web Applications
-</h3>
+<h1 align="center">Gunasekaran E</h1>
 
 <p align="center">
-  Building practical web applications with modern frontend, backend,
-  database and API technologies.
+  Software Developer | React.js | ASP.NET Core | REST APIs
 </p>
 
-<br>
-
-<!-- ===================== ABOUT ===================== -->
-
-## 👨‍💻 About Me
-
-I'm a Software Developer focused on building practical software solutions with
-strong problem-solving skills and a continuous interest in learning and
-improving my development skills.
-
-- 🌐 Building web applications using **React.js** and **ASP.NET Core**
-- ⚙️ Developing backend applications with **ASP.NET Core Web API**
-- 🔗 Working with **REST APIs**
-- 🗄️ Working with **MongoDB Atlas** and **PostgreSQL**
-- 💻 Programming with **C#** and **SQL**
-- 🔐 Developing authentication and order management systems
-- 📊 Building administrative dashboards for business operations
-- 🚀 Continuously improving software development and problem-solving skills
-
----
-
-<!-- ===================== CONTACT ===================== -->
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/guna684">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/gunasekaran-e-b30a0a3b0/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:egunasekaran56@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
+<p align="center">
+  Building web applications with frontend, backend, database and API technologies.
 </p>
 
-<p>
-  🌍 India &nbsp; • &nbsp; 🤝 Open to Collaboration
+<p align="center">
+  <a href="https://github.com/guna684">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/gunasekaran-e-b30a0a3b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:egunasekaran56@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-<!-- ===================== SKILLS ===================== -->
+## 👨‍💻 Profile
 
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,csharp,sql" />
-</p>
-
-<p>
-  <strong>C#</strong> • <strong>SQL</strong>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚛️ Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,aspnet" />
-</p>
-
-<p>
-  <strong>React.js</strong> • <strong>ASP.NET Core MVC</strong> •
-  <strong>ASP.NET Core Web API</strong>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</p>
-
-<p>
-  <strong>MongoDB Atlas</strong> • <strong>PostgreSQL</strong> •
-  <strong>MySQL</strong>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔗 APIs & Backend
-
-<p>
-  <strong>REST APIs</strong> • <strong>ASP.NET Core Web API</strong>
-</p>
-
-<p>
-  <strong>Swagger</strong>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,git,github" />
-</p>
-
-<p>
-  <strong>Android Studio</strong> • <strong>GitHub</strong> •
-  <strong>Swagger</strong>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Automation
-
-<p>
-  <strong>n8n</strong>
-</p>
-
-<p>
-  Basic knowledge of workflow automation using n8n.
-</p>
-
-</td>
-
-</tr>
-
-</table>
+Motivated Software Developer seeking an opportunity to contribute to innovative
+software solutions, apply strong problem-solving skills, and grow professionally
+while contributing to organizational success.
 
 ---
 
-<!-- ===================== WHAT I BUILD ===================== -->
+## 🛠️ Skills
 
-## 🚀 What I Build
+### Frontend
+- HTML
+- React.js
 
-| Area | Focus |
-|---|---|
-| 🌐 Web Applications | Web applications using React.js and ASP.NET Core |
-| ⚛️ Frontend Development | User interfaces using React.js |
-| ⚙️ Backend Development | ASP.NET Core MVC and Web API applications |
-| 🔗 API Integration | REST API development and integration |
-| 🔐 Authentication | Secure authentication and user management |
-| 🛒 E-Commerce | Online shopping and book store applications |
-| 💳 Payment Processing | Integrated online payment processing |
-| 🗄️ Data Systems | Applications using MongoDB Atlas and PostgreSQL |
-| 📊 Admin Systems | Product, customer and sales management dashboards |
+### Backend
+- ASP.NET Core MVC
+- ASP.NET Core Web API
+- REST APIs
 
----
+### Programming Languages
+- C#
+- SQL
 
-<!-- ===================== PROJECT ===================== -->
+### Database
+- MongoDB Atlas
+- PostgreSQL
 
-## 📚 Featured Project
-
-### 📖 Online Book Store
-
-A web-based Online Book Store application designed to allow users to
-browse, search and purchase books efficiently.
-
-#### ✨ Features
-
-- 📚 Browse and search books
-- 🔐 Secure authentication
-- 🛒 Book purchasing workflow
-- 📦 Order management
-- 💳 Online payment processing
-- 👨‍💼 Administrative dashboard
-- 📊 Product, customer and sales management
-
-🔗 **Source Code:**  
-https://github.com/guna684/book-shop-project
+### Tools
+- Android Studio
+- n8n (Basics)
+- Swagger
+- GitHub
 
 ---
-
-<!-- ===================== EXPERIENCE ===================== -->
 
 ## 💼 Experience
 
-### Software Developer — Nava Nala Technologies, Perundurai
+### Software Developer
 
-**4 Months**
+**Nava Nala Technologies, Perundurai**
 
-Worked as a Software Developer and gained practical experience in software
-development and application building.
+**Duration:** 4 Months
 
 ---
 
-<!-- ===================== CERTIFICATION ===================== -->
+## 🎓 Education
+
+### B.Sc – Computer Systems and Design
+**Kongu Engineering College**  
+2023 – 2026  
+**CGPA:** 7.16%
+
+### Higher Secondary Education – HSLC
+**Bharathi Matric Higher Secondary School**  
+2022 – 2023  
+**Percentage:** 64%
+
+### Secondary School Education – SSLC
+**Bharathi Matric Higher Secondary School**  
+2020 – 2021  
+**Result:** Passed
+
+---
 
 ## 🏆 Certification
 
 ### Oracle Certified Professional – MySQL 8.0 Database Developer
 
-Demonstrated knowledge of:
-
-- SQL queries
-- Database design
-- Data management concepts
+Demonstrated knowledge of SQL queries, database design,
+and data management concepts.
 
 ---
 
+## 📚 Project
 
-<!-- ===================== CURRENT FOCUS ===================== -->
+### Online Book Store
 
-## 🎯 Currently Exploring
+A web-based platform designed to allow users to browse, search,
+and purchase books efficiently.
 
-- ⚛️ React.js application development
-- 🔵 ASP.NET Core Web API
-- 🔗 REST API development
-- 🗄️ Database-driven applications
-- 🍃 MongoDB Atlas
-- 🐘 PostgreSQL
-- ⚙️ Workflow automation with **n8n**
-- 📊 Building practical full-stack applications
+**Features:**
+- Secure authentication
+- Order management
+- Online payment processing
+- Administrative dashboard
+- Product management
+- Customer management
+- Sales management
 
----
-
-<!-- ===================== GITHUB ===================== -->
-
-## 📊 GitHub
-
-<p align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=guna684&theme=dark&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</p>
+**Source Code:**  
+https://github.com/guna684/book-shop-project
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+## 📫 Contact
 
-<p align="center">
-  <i>Building practical software. Learning continuously. Improving every day.</i>
-</p>
+**Email:** egunasekaran56@gmail.com  
+**Phone:** 9360128047
+
+**GitHub:** https://github.com/guna684  
+**LinkedIn:** https://www.linkedin.com/in/gunasekaran-e-b30a0a3b0/
