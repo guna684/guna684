@@ -3,10 +3,6 @@
 <h1 align="center">👋 Hi, I'm Gunasekaran E</h1>
 
 <p align="center">
-  <strong>Software Developer</strong> · React.js · ASP.NET Core · REST APIs
-</p>
-
-<p align="center">
   Building practical web applications with frontend, backend, database and API technologies.
 </p>
 
@@ -127,48 +123,6 @@ and purchase books efficiently.
 
 ---
 
-## 🎓 Education
-
-<details>
-<summary>🎓 <strong>B.Sc – Computer Systems and Design</strong></summary>
-
-<br>
-
-**Kongu Engineering College**
-
-📅 2023 – 2026
-
-📊 **CGPA:** 7.16%
-
-</details>
-
-<details>
-<summary>🏫 <strong>Higher Secondary Education – HSLC</strong></summary>
-
-<br>
-
-**Bharathi Matric Higher Secondary School**
-
-📅 2022 – 2023
-
-📊 **Percentage:** 64%
-
-</details>
-
-<details>
-<summary>🏫 <strong>Secondary School Education – SSLC</strong></summary>
-
-<br>
-
-**Bharathi Matric Higher Secondary School**
-
-📅 2020 – 2021
-
-✅ Passed
-
-</details>
-
----
 
 ## 🏆 Certification
 
