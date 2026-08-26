@@ -98,8 +98,7 @@ and purchase books efficiently.
 </details>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1cNyWW5vbqckmv8_IbqA4w3TB9eAla9nY/view?usp=drive_link
-">
+  <a href="https://github.com/guna684/sri-chola-book-shop">
     <img src="https://img.shields.io/badge/🔗%20View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
