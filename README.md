@@ -1,30 +1,30 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">Gunasekaran E</h1>
+<h1 align="center">👋 Hi, I'm Gunasekaran E</h1>
 
 <p align="center">
-  Software Developer | React.js | ASP.NET Core | REST APIs
+  <strong>Software Developer</strong> · React.js · ASP.NET Core · REST APIs
 </p>
 
 <p align="center">
-  Building web applications with frontend, backend, database and API technologies.
+  Building practical web applications with frontend, backend, database and API technologies.
 </p>
 
 <p align="center">
   <a href="https://github.com/guna684">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gunasekaran-e-b30a0a3b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:egunasekaran56@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Profile
+## 👨‍💻 About Me
 
 Motivated Software Developer seeking an opportunity to contribute to innovative
 software solutions, apply strong problem-solving skills, and grow professionally
@@ -32,79 +32,193 @@ while contributing to organizational success.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 ### Frontend
-- HTML
-- React.js
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,react" />
+</p>
+
+**HTML · React.js**
 
 ### Backend
-- ASP.NET Core MVC
-- ASP.NET Core Web API
-- REST APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+**ASP.NET Core MVC · ASP.NET Core Web API · REST APIs**
 
 ### Programming Languages
-- C#
-- SQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs" />
+</p>
+
+**C# · SQL**
 
 ### Database
-- MongoDB Atlas
-- PostgreSQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+**MongoDB Atlas · PostgreSQL**
 
 ### Tools
-- Android Studio
-- n8n (Basics)
-- Swagger
-- GitHub
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,github" />
+</p>
+
+**Android Studio · n8n (Basics) · Swagger · GitHub**
+
+---
+
+## 🚀 Featured Project
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT-Online%20Book%20Store-2ea44f?style=for-the-badge" />
+</p>
+
+### 📚 Online Book Store
+
+A web-based platform designed to allow users to browse, search,
+and purchase books efficiently.
+
+<details>
+<summary>✨ View Project Features</summary>
+
+<br>
+
+* 🔐 Secure authentication
+* 🔎 Browse and search books
+* 🛒 Book purchasing
+* 📦 Order management
+* 💳 Online payment processing
+* 👨‍💼 Administrative dashboard
+* 📦 Product management
+* 👥 Customer management
+* 📊 Sales management
+
+</details>
+
+<p align="center">
+  <a href="https://github.com/guna684/book-shop-project">
+    <img src="https://img.shields.io/badge/🔗%20View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 💼 Experience
 
-### Software Developer
+<details>
+<summary><strong>Software Developer — Nava Nala Technologies</strong></summary>
 
-**Nava Nala Technologies, Perundurai**
+<br>
 
-**Duration:** 4 Months
+📍 **Perundurai**
+
+⏱️ **Duration:** 4 Months
+
+</details>
 
 ---
 
+## 🎓 Education
 
+<details>
+<summary>🎓 <strong>B.Sc – Computer Systems and Design</strong></summary>
+
+<br>
+
+**Kongu Engineering College**
+
+📅 2023 – 2026
+
+📊 **CGPA:** 7.16%
+
+</details>
+
+<details>
+<summary>🏫 <strong>Higher Secondary Education – HSLC</strong></summary>
+
+<br>
+
+**Bharathi Matric Higher Secondary School**
+
+📅 2022 – 2023
+
+📊 **Percentage:** 64%
+
+</details>
+
+<details>
+<summary>🏫 <strong>Secondary School Education – SSLC</strong></summary>
+
+<br>
+
+**Bharathi Matric Higher Secondary School**
+
+📅 2020 – 2021
+
+✅ Passed
+
+</details>
+
+---
 
 ## 🏆 Certification
 
-### Oracle Certified Professional – MySQL 8.0 Database Developer
+<details>
+<summary>🏅 <strong>Oracle Certified Professional – MySQL 8.0 Database Developer</strong></summary>
 
-Demonstrated knowledge of SQL queries, database design,
-and data management concepts.
+<br>
 
----
+Demonstrated knowledge of:
 
-## 📚 Project
+* SQL queries
+* Database design
+* Data management concepts
 
-### Online Book Store
-
-A web-based platform designed to allow users to browse, search,
-and purchase books efficiently.
-
-**Features:**
-- Secure authentication
-- Order management
-- Online payment processing
-- Administrative dashboard
-- Product management
-- Customer management
-- Sales management
-
-**Source Code:**  
-https://github.com/guna684/book-shop-project
+</details>
 
 ---
 
-## 📫 Contact
+## 📊 Skills Overview
 
-**Email:** egunasekaran56@gmail.com  
-**Phone:** 9360128047
+| Area          | Technologies                           |
+| ------------- | -------------------------------------- |
+| 🌐 Frontend   | HTML, React.js                         |
+| ⚙️ Backend    | ASP.NET Core MVC, ASP.NET Core Web API |
+| 🔗 APIs       | REST APIs                              |
+| 💻 Languages  | C#, SQL                                |
+| 🗄️ Database  | MongoDB Atlas, PostgreSQL              |
+| 🧰 Tools      | Android Studio, Swagger, GitHub        |
+| ⚙️ Automation | n8n (Basics)                           |
 
-**GitHub:** https://github.com/guna684  
-**LinkedIn:** https://www.linkedin.com/in/gunasekaran-e-b30a0a3b0/
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:egunasekaran56@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Email-egunasekaran56%40gmail.com-D14836?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/guna684">
+  <img src="https://img.shields.io/badge/💻%20GitHub-guna684-181717?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/gunasekaran-e-b30a0a3b0/">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Gunasekaran%20E-0A66C2?style=for-the-badge" />
+</a>
+
+</p>
+
+<p align="center">
+  <i>Software Developer • Building • Learning • Growing</i>
+</p>
