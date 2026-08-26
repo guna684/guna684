@@ -69,24 +69,7 @@ while contributing to organizational success.
 
 ---
 
-## 🎓 Education
 
-### B.Sc – Computer Systems and Design
-**Kongu Engineering College**  
-2023 – 2026  
-**CGPA:** 7.16%
-
-### Higher Secondary Education – HSLC
-**Bharathi Matric Higher Secondary School**  
-2022 – 2023  
-**Percentage:** 64%
-
-### Secondary School Education – SSLC
-**Bharathi Matric Higher Secondary School**  
-2020 – 2021  
-**Result:** Passed
-
----
 
 ## 🏆 Certification
 
